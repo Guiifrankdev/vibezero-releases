@@ -1,0 +1,6 @@
+{
+  "versao": "0.19.0",
+  "url": "https://github.com/Guiifrankdev/vibezero-releases/releases/download/v0.19.0/VibeZero-0.19.0-win.zip",
+  "notas": "Auditoria de produção: recuperação do estado após queda de energia, aviso de versão nova ligado, e correção do modo Mobile nas abas.",
+  "sha256": "6d7d9725daf82ebae3399f30ea7abb9ef0b6c4b9d5d57a6b057d96144fc84965"
+}
