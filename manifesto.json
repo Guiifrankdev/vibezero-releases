@@ -1,6 +1,6 @@
 {
-  "versao": "0.20.0",
-  "url": "https://github.com/Guiifrankdev/vibezero-releases/releases/download/v0.20.0/VibeZero-0.20.0-win.zip",
-  "notas": "Depois de baixar, o app agora diz onde extrair o zip — antes o aviso sumia.",
-  "sha256": "3b011334f892ffb37d818e41c65f52da6a6ec1f034163de3d8bcabc242a5222c"
+  "versao": "0.21.0",
+  "url": "https://github.com/Guiifrankdev/vibezero-releases/releases/download/v0.21.0/VibeZero-0.21.0-win.zip",
+  "notas": "O rodízio de modelos parou de escolher modelos que não atendem, e os erros agora dizem o motivo real em vez de mandar conferir credencial.",
+  "sha256": "7a02c166a57b9e3a8ee5e404ed470998edd1a55d2ce6d6e2f005786c87f296dc"
 }
